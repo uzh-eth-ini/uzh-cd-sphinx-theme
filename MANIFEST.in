@@ -1,0 +1,6 @@
+# MANIFEST.in
+
+include *.txt
+include *.rst
+
+recursive-include sphinx_uzh_cd_theme *
